@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    Demo - TODO LIST
+                    CDIT-2-DEMO - TODO LIST
                 </Row>
   
                 <hr />
